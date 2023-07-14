@@ -1,3 +1,4 @@
+<div align="center"> <img src="./img/github-header-image.png"> </div>
 <h1 align="center">Hello, I'm Edrick</h1>
 <h3 align="center">An original web developer</h3>
 
